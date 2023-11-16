@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="facts.css">
+<style>
+    ::selection{  color: #050000;
+      background: #fff;}
+    
+    nav{ 
+      background: darkslategray;
+      height: 25px;
+      width: 1250px;
+      padding:10px 0;
+      z-index: 12;}
+    
+    nav .menu{ max-width: 1250px;
+      margin: auto;
+      display:-moz-groupbox;
+      text-align: center;
+      justify-content: space-between;
+      padding: 0 20px;}
+    
+    .menu ul{  display: inline-flex;}
+    .menu ul li{  list-style: none;
+      margin-left: 7px;}
+      
+    
+    .menu ul li a{  text-decoration: none;
+      color: #fff;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 8px 30px;
+      border-radius: 5px;
+      transition: all 0.3s ease;}
+    
+    .menu ul li a:hover{  background: #fff;
+      color: black;}
+    
+    .center .btns{  margin-top: 20px;}
+    
+    .center .btns button{  height: 55px;
+      width: 170px;
+      border-radius: 5px;
+      border: none;
+      margin: 0 10px;
+      border: 2px solid white;
+      font-size: 80px;
+      font-weight: 500;
+      padding: 0 10px;
+      cursor: pointer;
+      outline: none;
+      transition: all 0.3s ease;}
+    
+        </style>
+</head>
+<body>
+    <div id="main">
+        <div class="eren">
+            <div class="goku">
+                <img src="data:image/jpeg;base64,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" width="146px" height="146px">
+            </div>
+            <div class="gohan">
+                <h1>Innovations</h1>
+            </div>
+        </div>
+        <br>
+        <br>
+    <div id="mikasa">
+        <nav>
+            <div class="menu">
+              <div class="logo">
+                <a href="#"></a>
+              </div>
+        
+              <ul>
+                <li><a href="index.html">Introduction</a></li>
+                <li><a href="factsandfigure.html">Innovations</a></li>
+                <li><a  href="Plastic-freeliving.html">Intellectual Property</a></li>
+                <li><a href="Reduce.html">Benefits To Society</a></li> 
+              </ul>
+              
+            </div>
+          </nav>
+        <br>
+        <div class="vegeta">
+            <div class="hima">
+                <div class="jima">
+                   <div class="rima"><u>MODULAR DESIGN</u></div>
+                </div>
+                <div class="lima">
+                    <p>Modular design in e-waste recycling involves creating electronic devices with easily replaceable and upgradeable components. This approach minimizes the environmental impact by extending the lifespan of electronic devices and reducing the need for frequent replacements. Users can swap out outdated or malfunctioning modules, such as processors, memory units, or cameras, instead of discarding the entire device. This promotes a circular economy, as returned modules can be refurbished or recycled separately. By designing electronics with modularity in mind, manufacturers contribute to sustainability, resource efficiency, and a more environmentally friendly approach to electronic consumption and disposal.</p>
+                </div>
+            </div>
+            <div class="kima">
+                <div class="eima">
+                    <img src="https://cdn.slidesharecdn.com/ss_thumbnails/e-waste-161216040839-thumbnail.jpg?width=600&height=600&fit=bounds" width="680px" height="480px" class="uima">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="segeta">
+            <div class="tima">
+                <div class="pel">
+                   <div class="cse"><u>URBAN MINING</u></div>
+                </div>
+                <div class="klt">
+                    <p>Urban mining innovation involves developing advanced methods to extract valuable materials from electronic waste, contributing to a sustainable circular economy. Utilizing cutting-edge technologies, such as hydrometallurgical processes or bioleaching, can efficiently recover precious metals like gold and rare earth elements from discarded electronics. These methods reduce the environmental impact associated with traditional mining while conserving valuable resources. Implementing robotic systems for automated disassembly can streamline the extraction process, making urban mining a more cost-effective and environmentally friendly solution. By focusing on urban mining innovations, we can transform e-waste into a valuable resource reservoir and diminish the demand for destructive mining practices.
+                    </p>
+                </div>
+            </div>
+            <div class="tyu">
+                <div class="miu">
+                    <img src="https://ars.els-cdn.com/content/image/1-s2.0-S0892687517301644-gr1.jpg" width="680px" height="480px" class="kiu">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="eegeta">
+            <div class="pima">
+                <div class="wel">
+                   <div class="fse"><u>E-WASTE TRACKING SYSYTEM</u></div>
+                </div>
+                <div class="tlt">
+                    <p>An e-waste tracking system innovation involves implementing blockchain or advanced tracking technologies to monitor the entire lifecycle of electronic devices. Each device would have a unique identifier linked to a tamper-proof digital ledger, ensuring transparency and accountability. This system facilitates efficient e-waste management by tracking devices from production through consumer use to recycling. Manufacturers, consumers, and recycling facilities can access real-time information on a device's origin and disposal, promoting responsible handling. This technology not only streamlines the recycling process but also establishes a standardized, traceable system that encourages sustainable practices and discourages illegal dumping or improper disposal of electronic waste.</p>
+                </div>
+            </div>
+            <div class="iyu">
+                <div class="oiu">
+                    <img src="https://www.ask-ehs.com/blog/wp-content/uploads/2022/11/2-1.png" width="680px" height="480px" class="eiu">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="kegeta">
+            <div class="wima">
+                <div class="rel">
+                   <div class="hse"><u>PERSONAL E-WASTE RECYCLING SYSTEM</u></div>
+                </div>
+                <div class="llt">
+                    <p>Create personal e-waste recycling systems that enable individuals to recycle electronic devices easily. Develop compact, user-friendly kiosks or at-home recycling kits with clear instructions. These systems could utilize automated sorting mechanisms for efficient separation of components, ensuring responsible disposal. Implement a reward-based model, offering incentives or discounts for returning e-waste. Mobile apps could track recycling habits, providing users with environmental impact insights. Collaborate with retailers to establish drop-off points, making recycling more accessible. Personal e-waste recycling systems empower individuals to contribute directly to sustainable practices, fostering a culture of responsible electronic waste management at the grassroots level.</p>
+                </div>
+            </div>
+            <div class="eyu">
+                <div class="qiu">
+                    <img src="https://hummingbirdinternational.net/wp-content/uploads/2015/09/Redefining-E-Waste-Management.jpg" width="680px" height="480px" class="riu">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="oegeta">
+            <div class="yima">
+                <div class="eel">
+                   <div class="gse"><u>ADVANCED SORTING TECHNIQUES</div>
+                </div>
+                <div class="olt">
+                    <p>Personal advanced sorting techniques for e-waste involve integrating smart devices with AI-assisted apps that can identify and categorize electronic components. Users can easily scan and sort their electronic items through these applications, ensuring efficient separation of materials for recycling. Additionally, implementing RFID or NFC tags on electronic devices can provide detailed information about each item, facilitating automated sorting processes in recycling facilities. This personalized approach empowers individuals to contribute directly to the recycling process, fostering a sense of responsibility and environmental consciousness. It also enhances the overall efficiency of e-waste recycling by streamlining the sorting phase and maximizing resource recovery.</p>
+                </div>
+            </div>
+            <div class="ryu">
+                <div class="xiu">
+                    <img src="https://www.greenit.co.in/blog/Process-of-E-Waste-Recycling.jpg" width="680px" height="480px" class="wiu">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="tegeta">
+            <div class="eima">
+                <div class="qel">
+                   <div class="yse"><u>INCENTIVIZED RECYCLING SYSTEMS</u></div>
+                </div>
+                <div class="wlt">
+                    <p>An incentivized recycling system for e-waste can encourage responsible disposal. Introduce a reward-based program where consumers receive incentives, such as discounts, vouchers, or loyalty points, when returning their old electronic devices for recycling. Partner with manufacturers and retailers to create a seamless process, making it convenient for users to participate. Implement a transparent tracking system to verify recycling efforts, ensuring fair distribution of rewards. This approach not only promotes eco-friendly habits but also fosters a sense of environmental responsibility among consumers. Incentivized recycling systems can significantly boost e-waste recycling rates while building a sustainable and circular approach to electronic consumption.</p>
+                </div>
+            </div>
+            <div class="lyu">
+                <div class="ziu">
+                    <img src="https://www.mdpi.com/recycling/recycling-06-00029/article_deploy/html/images/recycling-06-00029-g002.png" width="680px" height="480px" class="ciu">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="uegeta">
+            <div class="aima">
+                <div class="jel">
+                   <div class="zse"><u>COMMUNITY EDUCATION PROGRAM</u></div>
+                </div>
+                <div class="glt">
+                    <P>A community education program for e-waste recycling innovation involves workshops, seminars, and outreach initiatives to inform and engage the public. These programs can cover the environmental impact of e-waste, proper disposal methods, and the benefits of recycling. Interactive sessions and demonstrations can showcase the recycling process and encourage responsible electronic consumption. Collaborations with schools, local organizations, and businesses can amplify the outreach. Implementing a digital platform for ongoing education and awareness campaigns enhances accessibility. By empowering communities with knowledge, this educational approach fosters a culture of responsible e-waste management, encouraging active participation in recycling efforts for a sustainable and eco-conscious future.                    </P>
+                </div>
+            </div>
+            <div class="fyu">
+                <div class="kiu">
+                    <img src="https://inunity.in/wp-content/uploads/2023/05/Hackathon-InUnity-Linked-Coverpage-1.jpg" width="680px" height="480px" class="aiu">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="negeta">
+            <div class="mima">
+                <div class="ael">
+                   <div class="lse"><u>E-WASTE UPCYCLING</u></div>
+                </div>
+                <div class="xlt">
+                    <p>E-waste upcycling innovations involve repurposing discarded electronic components into new and functional products. This creative approach transforms old circuit boards, cables, and other electronic parts into art, furniture, or even fashion items. Collaborating with designers and artists to explore unique upcycling possibilities can turn electronic waste into aesthetically appealing and sustainable creations. By promoting upcycling initiatives, we not only reduce the environmental impact of e-waste but also inspire a shift in consumer perception, highlighting the potential beauty and functionality that can emerge from repurposing discarded electronics. This approach aligns with circular economy principles, fostering creativity and sustainability in electronic waste management.</p>
+                </div>
+            </div>
+            <div class="jyu">
+                <div class="diu">
+                    <img src="https://www.springwise.com/wp-content/uploads/2021/01/sustainability-innovationcomputing-techkaro-sambhav-e-waste-recycling-1.png" width="680px" height="480px" class="tiu">
+                </div>
+            </div>
+        </div>
+        <br>
+        <br>
+        <div class="legeta">
+            <div class="fima">
+                <div class="hel">
+                   <div class="sse"><u>GREEN DESIGN STANDARDS</u></div>
+                </div>
+                <div class="flt">
+                    <p>Green design standards in e-waste recycling involve promoting the use of eco-friendly materials and energy-efficient components in electronic manufacturing. Innovations include developing electronics with easily recyclable or biodegradable materials, reducing environmental impact. Designing energy-efficient devices prolongs battery life, decreasing electronic waste. Additionally, like 3D printing or environmentally conscious packaging, supports a circular economy. Implementing green design standards ensures that electronic products are not only functional but also environmentally responsible, fostering a shift towards a more sustainable and eco-conscious approach in the entire lifecycle of electronic devices, from production to disposal.</p>
+                </div>
+            </div>
+            <div class="byu">
+                <div class="siu">
+                    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210320122603/green2.png" width="700px" height="480px" class="miu">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

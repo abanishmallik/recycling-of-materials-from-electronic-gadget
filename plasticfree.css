@@ -1,0 +1,299 @@
+#eren{
+    width: 1250px;
+    height: 150px;
+    background-color: darkslategray;
+}
+.pass{
+    width: 146px;
+    height: 146px;
+    border-top: 2px solid darkcyan;
+    border-bottom: 2px solid darkcyan;
+    border-left: 2px solid darkcyan;
+    float: left;
+}
+.fail{
+    width: 1100px;
+    height: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    color:gainsboro;
+    font-weight: 50px;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+.oilu{
+    width: 1200px;
+    height: 130px;
+    border: 10px solid orange;
+    background-color: orange;
+    border-radius: 20px;
+    font-size: 13px;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.lion{
+    width: 1250px;
+    height: 800px;
+}
+.tiger{
+    width: 510px;
+    height: 780px;
+    border: 20px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.elephant{
+    width: 510px;
+    height: 80px;
+    border: 10px ;
+    border-radius: 20px;
+    
+}
+.kenny{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.jenny{
+    width: 510px;
+    height: 680px;
+    border: 10px;
+    border-radius: 20px;
+}
+.lenny{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.fox{
+    width: 670px;
+    height: 818px;
+    float: right;
+    margin-left: 20px;
+}
+.henny{
+    border: 10px;
+    border-radius: 20px;
+}
+.god{
+    width: 1250px;
+    height: 800px;
+}
+.mod{
+    width: 510px;
+    height: 780px;
+    border: 20px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.lod{
+    width: 510px;
+    height: 80px;
+    border: 10px ;
+    border-radius: 20px;
+    
+}
+.sod{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nod{
+    width: 510px;
+    height: 680px;
+    border: 10px;
+    border-radius: 20px;
+}
+.kod{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.hod{
+    width: 670px;
+    height: 818px;
+    float: right;
+    margin-left: 20px;
+}
+.aod{
+    border: 10px;
+    border-radius: 20px;
+}
+.ser{
+    width: 1250px;
+    height: 800px;
+}
+.mer{
+    width: 510px;
+    height: 780px;
+    border: 20px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.dher{
+    width: 510px;
+    height: 80px;
+    border: 10px ;
+    border-radius: 20px;
+    
+}
+.ler{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.ner{
+    width: 510px;
+    height: 680px;
+    border: 10px;
+    border-radius: 20px;
+}
+.her{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ter{
+    width: 670px;
+    height: 818px;
+    float: right;
+    margin-left: 20px;
+}
+.qer{
+    border: 10px;
+    border-radius: 20px;
+}
+.titu{
+    width: 1250px;
+    height: 800px;
+}
+.mitu{
+    width: 510px;
+    height: 780px;
+    border: 20px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.litu{
+    width: 510px;
+    height: 80px;
+    border: 10px ;
+    border-radius: 20px;
+    
+}
+.situ{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nitu{
+    width: 510px;
+    height: 680px;
+    border: 10px;
+    border-radius: 20px;
+}
+.hitu{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.eitu{
+    width: 670px;
+    height: 818px;
+    float: right;
+    margin-left: 20px;
+}
+.xitu{
+    border: 10px;
+    border-radius: 20px;
+}
+.hera{
+    width: 1250px;
+    height: 800px;
+}
+.sera{
+    width: 510px;
+    height: 780px;
+    border: 20px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.mera{
+    width: 510px;
+    height: 80px;
+    border: 10px ;
+    border-radius: 20px;
+    
+}
+.kera{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nera{
+    width: 510px;
+    height: 680px;
+    border: 10px;
+    border-radius: 20px;
+}
+.tera{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.eera{
+    width: 670px;
+    height: 818px;
+    float: right;
+    margin-left: 20px;
+}
+.xera{
+    border: 10px;
+    border-radius: 20px;
+}
+.hra{
+    width: 1250px;
+    height: 800px;
+}
+.sra{
+    width: 510px;
+    height: 780px;
+    border: 20px solid darkslategray;
+    border-radius: 20px;
+    float: left;
+}
+.mra{
+    width: 510px;
+    height: 80px;
+    border: 10px ;
+    border-radius: 20px;
+    
+}
+.kra{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nra{
+    width: 510px;
+    height: 680px;
+    border: 10px;
+    border-radius: 20px;
+}
+.jra{
+    font-size: 24px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.era{
+    width: 670px;
+    height: 818px;
+    float: right;
+    margin-left: 20px;
+}
+.xra{
+    border: 10px;
+    border-radius: 20px;
+}
+

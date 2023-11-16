@@ -1,0 +1,431 @@
+.eren{
+    width: 1250px;
+    height: 150px;
+    background-color: darkslategray;
+}
+.goku{
+    width: 146px;
+    height: 146px;
+    border: 2px solid darkcyan;
+    float: left;
+}
+.gohan{
+    width: 1100px;
+    height: 150px;
+    font-size: 30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+    padding-top: 2px;
+}
+.vegeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.hima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.jima{
+    width: 500px;
+    height: 100px;
+}
+.rima{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.lima{
+    width: 500px;
+    height: 400px;
+    font-size: 23px;
+    color: aliceblue;
+    padding-left: 20px;
+}
+.kima{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.eima{
+    width: 680px;
+    height: 480px;
+}
+.uima{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.segeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.tima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.pel{
+    width: 500px;
+    height: 100px;
+}
+.cse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.klt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.tyu{
+    width: 720px;
+    height: 480px;
+    float: right;
+}
+.miu{
+    width: 650px;
+    height: 480px;
+}
+.kiu{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.eegeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.pima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.wel{
+    width: 500px;
+    height: 100px;
+}
+.fse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.tlt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.iyu{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.oiu{
+    width: 680px;
+    height: 480px;
+}
+.eiu{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.kegeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.wima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.rel{
+    width: 500px;
+    height: 100px;
+}
+.hse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.llt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.eyu{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.qiu{
+    width: 680px;
+    height: 480px;
+}
+.riu{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.oegeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.yima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.eel{
+    width: 500px;
+    height: 100px;
+}
+.gse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.olt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.ryu{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.xiu{
+    width: 680px;
+    height: 480px;
+}
+.wiu{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.tegeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.eima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.qel{
+    width: 500px;
+    height: 100px;
+}
+.yse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.wlt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.lyu{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.ziu{
+    width: 680px;
+    height: 480px;
+}
+.ciu{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.uegeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.aima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.jel{
+    width: 500px;
+    height: 100px;
+}
+.zse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.glt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.fyu{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.kiu{
+    width: 680px;
+    height: 480px;
+}
+.aiu{
+    border: 10px;
+    border-radius: 20px;
+}
+.negeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.mima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.ael{
+    width: 500px;
+    height: 100px;
+}
+.lse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.xlt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.jyu{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.diu{
+    width: 680px;
+    height: 480px;
+}
+.tiu{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}
+.legeta{
+    width: 1230px;
+    height: 480px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.fima{
+    width: 500px;
+    height: 500px;
+    float: left;
+}
+.hel{
+    width: 500px;
+    height: 100px;
+}
+.sse{
+    width: 500px;
+    height: 400px;
+    text-align: center;
+    font-size: 40px;
+    color: aliceblue;
+    padding-top:20px ;
+}
+.flt{
+    width: 500px;
+    height: 400px;
+    font-size: 22px;
+    color: aliceblue;
+    padding-left: 20px;
+    padding-bottom: 50px;
+}
+.byu{
+    width: 700px;
+    height: 480px;
+    float: right;
+}
+.siu{
+    width: 700px;
+    height: 480px;
+}
+.miu{
+    border: 10px;
+    border-radius: 20px;
+    padding-left: 20px;
+}

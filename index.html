@@ -1,0 +1,144 @@
+.<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="plastic.css">
+<style>
+    ::selection{  color: #050000;
+      background: #fff;}
+    
+    nav{ 
+      background: darkslategray;
+      height: 25px;
+      width: 1250px;
+      padding:10px 0;
+      z-index: 12;}
+    
+    nav .menu{ max-width: 1250px;
+      margin: auto;
+      display:-moz-groupbox;
+      text-align: center;
+      justify-content: space-between;
+      padding: 0 20px;}
+    
+    .menu ul{  display: inline-flex;}
+    .menu ul li{  list-style: none;
+      margin-left: 7px;}
+      
+    
+    .menu ul li a{  text-decoration: none;
+      color: #fff;
+      font-size: 18px;
+      font-weight: 500;
+      padding: 8px 30px;
+      border-radius: 5px;
+      transition: all 0.3s ease;}
+    
+    .menu ul li a:hover{  background: #fff;
+      color: black;}
+    
+    .center .btns{  margin-top: 20px;}
+    
+    .center .btns button{  height: 55px;
+      width: 170px;
+      border-radius: 5px;
+      border: none;
+      margin: 0 10px;
+      border: 2px solid white;
+      font-size: 80px;
+      font-weight: 500;
+      padding: 0 10px;
+      cursor: pointer;
+      outline: none;
+      transition: all 0.3s ease;}
+    
+        </style>
+    
+</head>
+<body>
+<div id="main">
+
+
+    <div id="eren">
+        <div class="pass">
+            <img src="data:image/png;base64,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" width="146px" height="146px">
+        </div>
+        <div class="fail">
+            Introduction to E-waste
+        </div>
+    </div>
+    <br>
+    <div id="mikasa">
+        <nav>
+            <div class="menu">
+              <div class="logo">
+                <a href="#"></a>
+              </div>
+        
+              <ul>
+                <li><a href="index.html">Introduction</a></li>
+                <li><a href="factsandfigure.html">Innovations</a></li>
+                <li><a  href="Plastic-freeliving.html">Intellectual Property</a></li>
+                <li><a href="Reduce.html">Benefits To Society</a></li> 
+              </ul>
+              
+            </div>
+          </nav>
+        
+    </div>
+<br>
+<br>
+    <div id="armin">
+        <div class="url">
+            <img src="https://www.matrixcomsec.com/images/e-waste-banner.jpg" alt="" width="750px" height="421px">
+        </div>
+        <div class="op">
+            <div class="loc">
+                <h1>What is E-waste ?</h1>
+            </div>
+            <div class="koc">
+                <div class="kil">
+                    <p>E-waste, or electronic waste, refers to discarded electronic devices and their components, such as computers, smartphones, and appliances. The rapid pace of technological advancement contributes to the escalating issue of e-waste. Improper disposal can release hazardous materials like lead and mercury, posing environmental and health risks. To address this challenge, global efforts focus on responsible recycling practices and awareness campaigns. Proper e-waste management involves the safe disposal and recycling of electronic devices to recover valuable materials and mitigate environmental impact. Many regions implement regulations to encourage responsible handling of e-waste, aiming to create a more sustainable approach to electronic consumption.
+                       </p>
+                </div>
+            </div>
+        </div>
+    </div>
+<br>
+<br>
+<div id="levi">
+    <div class="imu">
+        <div class="lop">
+            Impact on Environment :
+        </div>
+        <div class="poi">
+           <div class="koi">
+            <p>E-waste poses severe environmental threats as improper disposal releases hazardous substances like lead and mercury, contaminating soil and water. Burning or landfilling electronic devices contributes to air pollution, emitting toxic fumes. The extraction of raw materials for electronics depletes resources, and inefficient recycling processes further harm ecosystems. Additionally, electronic waste often ends up in developing countries, where informal recycling practices result in health hazards for workers and communities. Addressing the environmental impact of e-waste requires stringent regulations, responsible recycling methods, and global initiatives to minimize the ecological footprint of discarded electronics.
+            </p>
+           </div>
+        </div>
+    </div>
+    <div class="joyboy">
+        <img src="https://sol-is.com/wp-content/uploads/2021/08/AdobeStock_250115153-1184x662.jpeg" width="680px" height="700px">
+    </div>
+</div>
+<br>
+<br>
+<div id="hem">
+    <div class="sem">
+        <div class="kem">
+            Impact on Wildlife and Human Health :
+        </div>
+        <div class="oil">
+           <div class="book">
+            <p>E-waste poses significant threats to wildlife and human health. Improper disposal can contaminate ecosystems with hazardous substances, harming aquatic life and soil. Wildlife may ingest or be exposed to toxic materials, leading to long-term ecological disruptions. Moreover, informal recycling methods in developing countries can expose communities to health risks, as dismantling electronic devices releases harmful chemicals. Inhaling fumes from burning e-waste contributes to respiratory issues. Heavy metals like lead and mercury, commonly found in electronic components, can accumulate in humans, causing developmental and neurological problems. Addressing e-waste's impact requires global awareness, responsible recycling, and protective measures for both wildlife and human populations.</p>
+        </div>
+        </div>
+    </div>
+    <div class="mari">
+        <img src="https://blog.idrenvironmental.com/hs-fs/hubfs/Stock%20images/Green%20concept%20as%20a%20leaf%20tree%20on%20top%20of%20mountain%20heap%20of%20garbage%20with%20roots%20as%20an%20environment%20or%20conservation%20icon%20for%20waste%20management%20or%20new%20healthy%20beginning.-1.jpeg?width=450&name=Green%20concept%20as%20a%20leaf%20tree%20on%20top%20of%20mountain%20heap%20of%20garbage%20with%20roots%20as%20an%20environment%20or%20conservation%20icon%20for%20waste%20management%20or%20new%20healthy%20beginning.-1.jpeg "width="680px" height="700px">
+    </div>
+</div>
+<br>
+</div>
+</body>
+</html>

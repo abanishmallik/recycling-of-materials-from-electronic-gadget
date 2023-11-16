@@ -1,0 +1,576 @@
+#eren{
+    width: 1250px;
+    height: 150px;
+    background-color: darkslategray;
+}
+.pass{
+    width: 146px;
+    height: 146px;
+    border-top: 2px solid darkcyan;
+    border-bottom: 2px solid darkcyan;
+    border-left: 2px solid darkcyan;
+    float: left;
+}
+.fail{
+    width: 1100px;
+    height: 150px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 70px;
+    color:gainsboro;
+    font-weight: 50px;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+.red{
+    width: 1250px;
+    height: 500px;
+}
+.fed{
+    width: 410px;
+    height: 440px;
+    background-color: orange;
+    border: 10px solid orange;
+    border-radius: 20px;
+    float: left;
+}
+.lery{
+    width: 410px;
+    height: 60px;
+}
+.yery{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+}
+.kery{
+    width: 390px;
+    height: 360px;
+    background-color: darkslategray;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+}
+.jery{
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.led{
+    width: 800px;
+    height: 450px;
+    margin-left: 20px;
+    float: right;
+}
+.hera{
+
+    border: 10px;
+    border-radius: 20px;
+}
+.tera{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.kera{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.jera{
+    width: 650px;
+    height: 80px;
+}
+.fera{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.dera{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.nera{
+    width: 650px;
+    height: 200px;
+}
+.mera{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.sera{
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.sino{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.url{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.uera{
+    border: 10px;
+    border-radius: 20px;
+}
+
+.kok{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.sok{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.dok{
+    width: 650px;
+    height: 80px;
+}
+.nok{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.jok{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.gok{
+    width: 650px;
+    height: 200px;
+}
+.hok{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.tok{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.aok{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.mok{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.xok{
+    border: 10px;
+    border-radius: 20px;
+}
+.a{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.b{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.c{
+    width: 650px;
+    height: 80px;
+}
+.d{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.e{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.f{
+    width: 650px;
+    height: 200px;
+}
+.g{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.h{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.i{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.j{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.k{
+    border: 10px;
+    border-radius: 20px;
+}
+.l{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.m{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.n{
+    width: 650px;
+    height: 80px;
+}
+.o{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.p{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.q{
+    width: 650px;
+    height: 200px;
+}
+.r{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.s{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.t{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.u{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.v{
+    border: 10px;
+    border-radius: 20px;
+}
+
+.ao{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.bo{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.co{
+    width: 650px;
+    height: 80px;
+}
+.do{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.eo{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.fo{
+    width: 650px;
+    height: 200px;
+}
+.go{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.ho{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.io{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.jo{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.ko{
+    border: 10px;
+    border-radius: 20px;
+}
+
+.lo{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.mo{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.no{
+    width: 650px;
+    height: 80px;
+}
+.oo{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.po{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.qo{
+    width: 650px;
+    height: 200px;
+}
+.ro{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.so{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.to{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.uo{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.vo{
+    border: 10px;
+    border-radius: 20px;
+}
+.aoc{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.boc{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.coc{
+    width: 650px;
+    height: 80px;
+}
+.doc{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.eoc{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.foc{
+    width: 650px;
+    height: 200px;
+}
+.goc{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.hoc{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.ioc{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.joc{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.koc{
+    border: 10px;
+    border-radius: 20px;
+}
+
+.loc{
+    width: 1230px;
+    height: 280px;
+    background-color:orange ;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.moc{
+    width: 650px;
+    height: 300px;
+    float: left;
+}
+.noc{
+    width: 650px;
+    height: 80px;
+}
+.ooc{
+    width: 610px;
+    height: 60px;
+    border: 10px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+}
+.poc{
+    text-align: center;
+    font-size: 33px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.qoc{
+    width: 650px;
+    height: 200px;
+}
+.roc{
+    width: 610px;
+    height: 170px;
+    border: 10px solid darkslategray;
+    background-color: darkslategray;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.soc{
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+.toc{
+    width: 580px;
+    height: 280px;
+    float: right;
+}
+.uoc{
+    width: 580px;
+    height: 280px;
+    border: 10px;
+    border-radius: 20px;
+}
+.voc{
+    border: 10px;
+    border-radius: 20px;
+}
+.garyon{
+    width: 1230px;
+    height: 30px;
+    background-color: orange;
+    border: 10px solid orange;
+    border-radius: 20px;
+}
+.self{
+    width: 1225px;
+    height: 25px;
+    border: 2px solid darkslategray;
+    border-radius: 20px;
+    background-color: darkslategray;
+    color: aliceblue;
+    font-size: 19px;
+    text-align: center;
+}
